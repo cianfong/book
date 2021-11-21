@@ -13,7 +13,7 @@
 
  <td style="background-color: orange" target="_blank"><center>精選圖書</td>
  <td></td>
- </tr>
+ 
 <!--特價書推薦其一-->
 
  <tr>
@@ -21,7 +21,7 @@
 <br>
 優惠價：66折158元</td>
  <td><img width ="150" height="250" src="755944803.jpg"></td>
- </tr>
+
 <!--特價書推薦其1-->
 
  <tr>
@@ -29,7 +29,7 @@
 <br>
 優惠價：66折185元</td>
  <td><img width ="150" height="250" src="986941576.jpg"></td>
- </tr>
+
  <!--特價書推薦其2-->
 
   <tr>
@@ -37,12 +37,10 @@
 <br>
 優惠價：66折132元</td>
  <td><img width ="150" height="250" src="957146013.jpg"></td>
- </tr>
+
  <!--特價書推薦其3-->
 
 
-</body>
-</html>
 
 
 
