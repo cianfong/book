@@ -8,6 +8,12 @@
     <title></title>
 </head>
 <body  style="background-color:#FFDCB9">
+    
+    
+    <form action="https://www.sanmin.com.tw/Search" method="get">
+<input type="text" name="p">
+<input type="submit" value="搜尋">
+        <!--找查圖書-->
 
 <table border="1">
 
