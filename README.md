@@ -7,11 +7,11 @@
     <meta charset="utf-8">
     <title></title>
 </head>
-<body  style="background-color:#FFDCB9;">
+<body  style="background-color:#FFDCB9">
 
 <table border="1">
 
- <td style="background-color: orange"target="_blank"><center>精選圖書</td>
+ <td style="background-color: orange" target="_blank"><center>精選圖書</td>
  <td></td>
  </tr>
 <!--特價書推薦其一-->
