@@ -17,10 +17,10 @@
 <!--特價書推薦其一-->
 
  <tr>
-<td style="background-color: orange"><center><a target="_blank" href=https://www.sanmin.com.tw/Product/index/007718804">平行線Ⅱ：惡意（簡體書）</a></center><p>定　價：239元
+<td style="background-color: orange"><center><a target="_blank" href="https://www.sanmin.com.tw/Product/index/007718804">平行線Ⅱ：惡意（簡體書）</a></center><p>定　價：239元
 <br>
 優惠價：66折158元</td>
- <td><img width ="150" height="250" src=""755944803.jpg"></td>
+ <td><img width ="150" height="250" src="755944803.jpg"></td>
  </tr>
 <!--特價書推薦其1-->
 
